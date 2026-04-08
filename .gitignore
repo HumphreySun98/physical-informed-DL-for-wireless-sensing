@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Data files (too large for git)
+data/*.npz
+data/*.npy
+data/processed/
+data/processed_*/
+
+# Model checkpoints
+checkpoints/
+checkpoints_*/
+*.pt
+*.pth
+
+# Results / outputs
+results/
+results_*/
+*.png
+*.jpg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# OS
+Thumbs.db
+desktop.ini
