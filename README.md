@@ -202,27 +202,3 @@ BLE RSSI ──► Hilbert ──► × conj(template) ──► |R_C| ──►
 
 ---
 
-## Citation
-
-If you use this code, please cite (placeholder):
-
-```bibtex
-@inproceedings{neurounfold2026,
-  title={NeuroUnfold: Physics-Informed Chirp Unfolding for Cross-Technology BLE Sensing},
-  author={Anonymous},
-  booktitle={Submitted to SenSys},
-  year={2026}
-}
-```
-
----
-
-## Acknowledgments
-
-This work builds on the cross-technology sensing concept introduced by **LoFiSen** [MobiCom 2025]. We extend the idea from WiFi (wide analog BW, reversible aliasing) to severely bandwidth-limited BLE/IoT receivers via deep learning.
-
----
-
-## License
-
-MIT
